@@ -1,17 +1,17 @@
 # TryDo Business Website
 
-[View Live Site](https://github.com/facebook/create-react-app).
+# [View Live Site](https://trydo-business-site-react-tailwind.netlify.app).
 
-# Create With :
+## Create With :
 
-## HTML5
+### HTML5
 
-## CSS3
+### CSS3
 
-## JAVASCRIPT
+### JAVASCRIPT
 
-## REACT JS
+### REACT JS
 
-## TAILWIND CSS
+### TAILWIND CSS
 
-## DAISY UI
+### DAISY UI
