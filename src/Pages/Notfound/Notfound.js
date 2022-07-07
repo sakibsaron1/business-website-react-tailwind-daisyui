@@ -3,7 +3,7 @@ import img from "../../images/404.jpg";
 
 const Notfound = () => {
   return (
-    <div className="error-area mt-8">
+    <div className="error-area mt-8 py-10">
       <img src={img} alt="" className="max-h-96 max-w-full mx-auto" />
     </div>
   );
