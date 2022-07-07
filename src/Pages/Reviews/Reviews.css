@@ -1,0 +1,54 @@
+/* .testi-text{
+    padding: 0 20px;
+} */
+
+.testi-text{
+    /* width: 350px; */
+    height: 150px;
+    border: 1px solid #767676;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+
+.bubble6-arrow {
+    position: absolute;
+    left: 50px;
+    bottom: -25px;
+    border-left: 21px solid transparent;
+    
+}
+  
+    .bubble6-arrow::before {
+      content: '';
+      position: absolute;
+      right: 5px;
+      bottom: 2px;
+      border-right: 23px solid transparent;
+      border-top: 23px solid #767676;
+    }
+  
+    .bubble6-arrow::after {
+      content: '';
+      position: absolute;
+      right: 6px;
+      bottom: 4px;
+      border-right: 21px solid transparent;
+      border-top: 21px solid #fff;
+    }
+  
+
+
+.testi-text p{
+    font-size: 15px;
+    color: #767676;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 500;
+}
+
+.testi-details p{
+    color: #767676;
+    font-style: italic;
+}

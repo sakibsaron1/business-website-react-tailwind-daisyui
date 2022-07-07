@@ -1,0 +1,19 @@
+
+.clients-images{
+    background-image: url('../../images/bg-image-17.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+
+.img-overlay{
+    background-color: black;
+    opacity: .7;
+    position: absolute ;
+    top: 0;
+    z-index: 0;
+    height: 100%;
+    width: 100%;
+}

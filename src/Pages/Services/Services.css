@@ -1,0 +1,22 @@
+.hover-items:hover .text-items{
+    color: #f9004d;
+    transition: 1s;
+}
+
+.hover-items:hover .design{
+    width: 62%;
+    transition: 1s;
+}
+
+.hover-items:hover .design2{
+    width: 30%;
+    transition: 0.5s;
+}
+
+.design2{
+    transition: 0.5s;
+}
+
+.design,.text-items{
+    transition: 1s;
+}

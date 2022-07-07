@@ -1,0 +1,52 @@
+[
+    {
+      "id": "0001",
+      "name": "KEITA SCOTLAND",
+      "title": "WEB DESIGNER",
+      "ratings": 4,
+      "comment": "Awesome theme, well written code and looks great on any platform. The customer support is very helpful.",
+      "image": "https://i.ibb.co/StYPDwR/3-1.jpg"
+    },
+    {
+      "id": "00002",
+      "name": "BRAIN EDERSON",
+      "title": "WEB DEVELOPER",
+      "ratings": 4,
+      "comment": "Beautiful minimalist design and great, fast response with support. Highly recommend. Thanks Marketify!",
+      "image": "https://i.ibb.co/89XFyGG/1-1.jpg"
+    },
+    {
+      "id": "0003",
+      "name": "STEVE COLLINS",
+      "title": "UI/UX DESIGNER",
+      "ratings": 4,
+      "comment": "I had a little problem and the support was just awesome to quickly solve the situation. And keep going on..",
+      "image": "https://i.ibb.co/YfmDX0H/2-1.jpg"
+    },
+    {
+      "id": "0004",
+      "name": "KEITA SCOTLAND",
+      "title": "WEB DESIGNER",
+      "ratings": 4,
+      "comment": "Awesome theme, well written code and looks great on any platform. The customer support is very helpful.",
+      "image": "https://i.ibb.co/StYPDwR/3-1.jpg"
+    },
+    {
+      "id": "0005",
+      "name": "BRAIN EDERSON",
+      "title": "WEB DEVELOPER",
+      "ratings": 4,
+      "comment": "Beautiful minimalist design and great, fast response with support. Highly recommend. Thanks Marketify!",
+      "image": "https://i.ibb.co/89XFyGG/1-1.jpg"
+    },
+    {
+      "id": "0006",
+      "name": "STEVE COLLINS",
+      "title": "UI/UX DESIGNER",
+      "ratings": 4,
+      "comment": "I had a little problem and the support was just awesome to quickly solve the situation. And keep going on..",
+      "image": "https://i.ibb.co/YfmDX0H/2-1.jpg"
+    }
+    
+  ]
+  
